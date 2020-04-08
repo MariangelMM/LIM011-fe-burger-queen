@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2008c52798a8fd1983617663397b64ab",
+    "revision": "b9d959d60e77984fadc36bbaa4ef988a",
     "url": "/LIM011-fe-burger-queen/index.html"
   },
   {
-    "revision": "7d80eb7808e32ff77f97",
+    "revision": "1e54a2e47c5a1db7780c",
     "url": "/LIM011-fe-burger-queen/static/css/main.6e705bd5.chunk.css"
   },
   {
-    "revision": "3e67b3101dc7503739bf",
-    "url": "/LIM011-fe-burger-queen/static/js/2.a5c1623b.chunk.js"
+    "revision": "881420ed223b49f229e1",
+    "url": "/LIM011-fe-burger-queen/static/js/2.877daf08.chunk.js"
   },
   {
-    "revision": "07a707eba59e3e3ed782f77b31f34780",
-    "url": "/LIM011-fe-burger-queen/static/js/2.a5c1623b.chunk.js.LICENSE.txt"
+    "revision": "7ba5a91c6aa4ae9cc068a25fb13d169c",
+    "url": "/LIM011-fe-burger-queen/static/js/2.877daf08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d80eb7808e32ff77f97",
-    "url": "/LIM011-fe-burger-queen/static/js/main.0d7a5d20.chunk.js"
+    "revision": "1e54a2e47c5a1db7780c",
+    "url": "/LIM011-fe-burger-queen/static/js/main.04a55b14.chunk.js"
   },
   {
     "revision": "df30202cd30acd3c1699",
