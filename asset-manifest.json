@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LIM011-BURGERQUEEN/static/css/main.f17b9be7.chunk.css",
+    "main.js": "/LIM011-BURGERQUEEN/static/js/main.a2229967.chunk.js",
+    "main.js.map": "/LIM011-BURGERQUEEN/static/js/main.a2229967.chunk.js.map",
+    "runtime-main.js": "/LIM011-BURGERQUEEN/static/js/runtime-main.d3065a67.js",
+    "runtime-main.js.map": "/LIM011-BURGERQUEEN/static/js/runtime-main.d3065a67.js.map",
+    "static/js/2.d2829557.chunk.js": "/LIM011-BURGERQUEEN/static/js/2.d2829557.chunk.js",
+    "static/js/2.d2829557.chunk.js.map": "/LIM011-BURGERQUEEN/static/js/2.d2829557.chunk.js.map",
+    "index.html": "/LIM011-BURGERQUEEN/index.html",
+    "precache-manifest.b4c0388fa1597936f798ec1456fa4fb1.js": "/LIM011-BURGERQUEEN/precache-manifest.b4c0388fa1597936f798ec1456fa4fb1.js",
+    "service-worker.js": "/LIM011-BURGERQUEEN/service-worker.js",
+    "static/css/main.f17b9be7.chunk.css.map": "/LIM011-BURGERQUEEN/static/css/main.f17b9be7.chunk.css.map",
+    "static/js/2.d2829557.chunk.js.LICENSE.txt": "/LIM011-BURGERQUEEN/static/js/2.d2829557.chunk.js.LICENSE.txt",
+    "static/media/estilo.css": "/LIM011-BURGERQUEEN/static/media/fondoHeader.815dae7e.svg",
+    "static/media/logoReina.svg": "/LIM011-BURGERQUEEN/static/media/logoReina.41f17378.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3065a67.js",
+    "static/js/2.d2829557.chunk.js",
+    "static/css/main.f17b9be7.chunk.css",
+    "static/js/main.a2229967.chunk.js"
+  ]
+}
